@@ -14,7 +14,7 @@ namespace ClasesPersonas
         //por defecto hay un costructor, si yo creo uno se anula el que viene por defecto
         //c# me crea los seter y geter el solo pero si necesito hacerr uno de manera personal uso esta forma
 
-        /*public int Edad { get; set; }
+        /*public int Edad { get; set; } 
         public String Nombre { get; set; }*/
 
         // C# me crea los setter y getter él sólo pero si necesito hacer uno de manera personal uso esta forma
